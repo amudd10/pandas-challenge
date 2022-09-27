@@ -1,0 +1,6 @@
+- Observable trends based on PyCitySchool Data
+
+1. Charter schools seemed to have had higher performing student bodies. Corresponding to a lower student budget 
+proportional to its amount of students
+
+2. Efficiency cannot be tied to a schools budget, as lower spending schools yielded better results in comparision
